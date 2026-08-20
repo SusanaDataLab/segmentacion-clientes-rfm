@@ -40,6 +40,6 @@ El objetivo principal es transformar datos masivos en grupos accionables para la
 * **Segmentación Clarificada:** Identificación precisa del volumen y margen aportado por cada segmento.
 * **Estrategias Diferenciadas:** Definición de tácticas específicas (programas de fidelización para *Leales*, campañas de reactivación urgentes para clientes *En Riesgo*).
 * **Integración BI:** Generación de archivos estructurados (`rfm_segmentado_final.csv`) consumidos por Power BI para análisis dinámico.
-
+![Dashboard de Power BI - Segmentación RFM](dashboard_principal.png)
 ---
 *Desarrollado por [Susana Uztáriz](https://github.com/SusanaDataLab)*
